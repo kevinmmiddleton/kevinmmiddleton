@@ -8,7 +8,7 @@ Product manager who builds things, not just specs them. 12+ years shipping acros
 
 **[QuietFeed](https://quietfeed.com)** — A content filtering app I designed and coded using AI as my primary development tool. Not generated snippets, the whole thing: architecture, frontend, backend.
 
-**Job Search Agent** — An AI-powered pipeline that scans LinkedIn twice a day, scores roles against my criteria using Gemini, and texts me matches. Runs autonomously on a Mac Mini with cost-optimized API calls ($0.06/scan).
+**[Job Search Agent](https://www.linkedin.com/pulse/i-built-ai-job-search-assistant-texts-me-when-finds-roles-middleton-nawxe)** — An AI-powered pipeline that scans LinkedIn twice a day, scores roles against my criteria using Gemini, and texts me matches. Runs autonomously on a Mac Mini with cost-optimized API calls ($0.06/scan).
 
 **[middleton.io](https://middleton.io)** — Portfolio and case studies.
 
