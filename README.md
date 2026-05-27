@@ -8,7 +8,7 @@ A product manager who ships AI products and builds his own. 12+ years across con
 
 **[QuietFeed](https://quietfeed.com)** — A content-filtering app I designed and coded with AI as my primary dev tool. Not generated snippets, the whole thing: architecture, frontend, backend.
 
-**Job Search Agent** — An AI pipeline that scans LinkedIn twice a day, scores roles against my criteria with Gemini, and texts me matches. Runs autonomously on a Mac Mini at ~$0.06/scan.
+**Job Search Agent** — An AI pipeline that scans LinkedIn twice a day, scores roles against my criteria with Gemini, and texts me matches. Runs autonomously on a Mac Mini at ~$0.01/scan.
 
 **[middleton.io](https://middleton.io)** — Portfolio and case studies.
 
