@@ -14,12 +14,12 @@ A product manager who ships AI products and builds his own. 12+ years across con
 
 ### 💼 Career Highlights
 
-**GridStrong** — AI compliance copilot for power plant operators. Helped secure $10M in funding.
-**HVAC.com** — 0.1% to 7.3% conversion through high-intent tools and full-funnel optimization.
-**Lever** — Built HRIS Sync from zero. 37% Q1 engagement, enterprise integrations.
-**Sendoso** — Doubled eGift coverage to 1,600 options across 47 countries. Landed Square.
-**Rocket Lawyer** — Co-branded partner platform reaching 11.5M users.
-**Oracle** — 36 features in 12 months. Doubled social network coverage across three time zones.
+- **GridStrong** — AI compliance copilot for power plant operators. Helped secure $10M in funding.
+- **HVAC.com** — 0.1% to 7.3% conversion through high-intent tools and full-funnel optimization.
+- **Lever** — Built HRIS Sync from zero. 37% Q1 engagement, enterprise integrations.
+- **Sendoso** — Doubled eGift coverage to 1,600 options across 47 countries. Landed Square.
+- **Rocket Lawyer** — Co-branded partner platform reaching 11.5M users.
+- **Oracle** — 36 features in 12 months. Doubled social network coverage across three time zones.
 
 ### 🧰 Tech
 
