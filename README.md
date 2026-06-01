@@ -23,8 +23,8 @@ A product manager who ships AI products and builds his own. 12+ years across con
 
 ### 🧰 Tech
 
-**Languages:** SQL · JavaScript · Java · C++ · PHP · HTML/CSS
-**Analytics:** Heap · Mixpanel · Amplitude · Looker · Metabase · FullStory
+- **Languages:** SQL · JavaScript · Java · C++ · PHP · HTML/CSS
+- **Analytics:** Heap · Mixpanel · Amplitude · Looker · Metabase · FullStory
 
 ### 🌐 Connect
 
