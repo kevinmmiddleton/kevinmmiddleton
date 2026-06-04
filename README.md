@@ -8,7 +8,7 @@ A product manager who ships AI products and builds his own. 12+ years across con
 
 **[QuietFeed](https://quietfeed.com)** — A content-filtering app I designed and coded with AI as my primary dev tool. Not generated snippets, the whole thing: architecture, frontend, backend.
 
-**Job Search Agent** — An AI pipeline that scans LinkedIn twice a day, scores roles against my criteria with Gemini, and texts me matches. Runs autonomously on a Mac Mini at ~$0.01/scan.
+**[Job Search Agent](https://github.com/kevinmmiddleton/job-search-agent)** — Open-sourced Claude Code plugin that turns Claude into your job search assistant. Scans job boards, tracks applications, builds interview guides, runs on a regular laptop. A scaled-down take on the always-on pipeline I run for myself (Mac Mini, twice-daily scans, ~$0.01/scan).
 
 **[middleton.io](https://middleton.io)** — Portfolio and case studies.
 
