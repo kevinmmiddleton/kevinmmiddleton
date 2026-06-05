@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kevin Middleton
 
-A product manager who ships AI products and builds his own. 12+ years across consumer, enterprise, and platform SaaS, and I do my best work when the problem isn't well-defined yet.
+A Full Stack Product Manager who ships AI products and builds his own. 12+ years across consumer, enterprise, and platform SaaS, and I do my best work when the problem isn't well-defined yet.
 
 ### 🔧 What I'm Building
 
