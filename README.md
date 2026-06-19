@@ -4,13 +4,19 @@ A Full Stack Product Manager who ships AI products and builds his own. 12+ years
 
 ### 🔧 What I'm Building
 
-**[build-with-claude](https://github.com/kevinmmiddleton/build-with-claude)** — Building and shipping apps from my phone with Claude Code and Telegram.
+I ship Claude Code plugins and apps in public.
+
+**[Job Search Agent](https://middleton.io/blog/ai-job-search-assistant/)** — An AI pipeline I built for my own search: scans LinkedIn twice a day, scores roles against my criteria with Gemini, and texts me matches. Runs autonomously on a Mac Mini at ~$0.01/scan. I packaged a lightweight, no-infrastructure version as a Claude Code plugin: [job-search-agent](https://github.com/kevinmmiddleton/job-search-agent) · [Install the plugin](https://github.com/kevinmmiddleton/job-search-agent/releases/latest).
+
+**[personal-site](https://github.com/kevinmmiddleton/personal-site)** — A Claude Code plugin that builds a distinctive personal website through a guided interview with Claude. Picks palette and type, generates the files, QAs against your real story, and ships it live on GitHub Pages. [Install the plugin](https://github.com/kevinmmiddleton/personal-site/releases/latest).
+
+**[build-with-claude](https://github.com/kevinmmiddleton/build-with-claude)** — A step-by-step guide and setup script for non-technical people to build and ship apps from their phone with Claude Code and Telegram. [Install the plugin](https://github.com/kevinmmiddleton/build-with-claude/releases/latest).
 
 **[QuietFeed](https://quietfeed.com)** — A content-filtering app I designed and coded with AI as my primary dev tool. Not generated snippets, the whole thing: architecture, frontend, backend.
 
-**[Job Search Agent](https://github.com/kevinmmiddleton/job-search-agent)** — Open-sourced Claude Code plugin that turns Claude into your job search assistant. Scans job boards, tracks applications, builds interview guides, runs on a regular laptop. A scaled-down take on the always-on pipeline I run for myself (Mac Mini, twice-daily scans, ~$0.01/scan).
+**[middleton.io](https://middleton.io)** — My portfolio: case studies, prototypes, and how I work.
 
-**[middleton.io](https://middleton.io)** — Portfolio and case studies.
+**[Blog](https://middleton.io/blog/)** — I write about building with AI, product, and shipping in public.
 
 ### 💼 Career Highlights
 
@@ -28,6 +34,6 @@ A Full Stack Product Manager who ships AI products and builds his own. 12+ years
 
 ### 🌐 Connect
 
-🔗 [LinkedIn](https://www.linkedin.com/in/kevinmiddleton) · 🧭 [Portfolio](https://middleton.io)
+🔗 [LinkedIn](https://www.linkedin.com/in/kevinmiddleton) · 🧭 [Portfolio](https://middleton.io) · 📊 [Case Studies](https://middleton.io/casestudies) · ✍️ [Blog](https://middleton.io/blog/)
 
 *I take the work seriously. I don't take myself seriously.*
