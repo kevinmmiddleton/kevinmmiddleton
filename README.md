@@ -6,7 +6,7 @@ I also build my own tools, which is how I know what AI can and can't do at work.
 
 ### Where I've done it
 
-- **Lever:** built HRIS Sync, the enterprise integration that carried Lever upmarket, with org-chart-aware approvals and automated user provisioning. 37% engagement in its first quarter.
+- **Lever:** built HRIS Sync, the enterprise integration that unblocked Lever's upmarket deals, with org-chart-aware approvals and automated user provisioning. 37% customer engagement in its first quarter.
 - **Sendoso:** built the internal tools that took eGift refunds, swaps, and deactivations off engineering's plate, and doubled eGift coverage to 1,600 options in 47 countries.
 - **CGI and CACI:** started as a C++ engineer on Momentum, the federal government's core financial system, then led its testing and go-live triage across six Department of Justice agencies, with budgets up to $200M.
 - **Rocket Lawyer:** a co-branded partner platform reaching 11.5M users, with its own sign-in, pricing, and theming for each partner.
@@ -26,11 +26,7 @@ I also build my own tools, which is how I know what AI can and can't do at work.
 
 **[Shortlist](https://shortlist.middleton.io/)**: a short list of good jobs, twice a day. A multi-user app on Supabase that searches applicant-tracking boards, filters out reposts and staffing agencies, and tracks what you apply to. Invite-only, for friends.
 
-**[One Night Only](https://middleton.io/one-night-only/)**: one-night-only film screenings in New York, pulled from more than 40 venues into one calendar.
-
-**[QuietFeed](https://quietfeed.com)**: an RSS reader that respects your attention. No algorithm, no ads, no infinite scroll.
-
-And for fun: [KevinOS](https://middleton.io/kevinos/), my portfolio as a retro desktop, and [Visionbort](https://middleton.io/visionbort/), vision boards with intentions.
+And for fun: [One Night Only](https://middleton.io/one-night-only/) (one-night film screenings across New York), [QuietFeed](https://quietfeed.com) (an RSS reader with no algorithm), [KevinOS](https://middleton.io/kevinos/) (my portfolio as a retro desktop), and [Visionbort](https://middleton.io/visionbort/) (vision boards with intentions).
 
 ### How I build
 
