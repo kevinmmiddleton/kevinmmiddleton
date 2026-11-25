@@ -20,7 +20,7 @@ I also build my own tools, which is how I know what AI can and can't do at work.
 
 **[Recruiter BFF](https://github.com/kevinmmiddleton/recruiter-bff)**: a recruiter that works for you. Find out if you're a match before you apply, then walk in with an interview guide built from your own background. It never applies for you. [Get it](https://middleton.io/recruiter-bff/)
 
-**[personal-site](https://github.com/kevinmmiddleton/personal-site)** and **[build-with-claude](https://github.com/kevinmmiddleton/build-with-claude)**: two plugins for people who want to build. One interviews you and ships your personal website. The other gets non-technical people building apps from their phone.
+**[personal-site](https://github.com/kevinmmiddleton/personal-site)** and **[build-with-claude](https://github.com/kevinmmiddleton/build-with-claude)**: two guides for people who want to build. One interviews you and ships a personal website that doesn't look AI-made. The other sets up your own always-on AI assistant, texted from your phone.
 
 ### Built for me, then opened up
 
