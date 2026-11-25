@@ -1,8 +1,14 @@
 ## Hi, I'm Kevin.
 
-I'm a Full Stack Product Manager who makes work easier for the people inside a company: integrations, internal platforms, and AI that fits into how teams already work. Engineer, then consultant, now 13 years in product.
+I'm a Senior Product Manager and AI product builder who makes work easier for the people inside a company: integrations, internal platforms, and AI that fits into how teams already work. Engineer, then consultant, now 13 years in product.
 
 I also build my own tools, which is how I know what AI can and can't do at work. Most of them I give away.
+
+### Now
+
+- Launching [QuietFeed](https://quietfeed.com), an RSS reader with no algorithm, on iPhone, iPad and Mac on Dec 1.
+- Shipped Recruiter BFF 1.1, now in Claude and ChatGPT.
+- Running my own always-on AI assistant on a Mac Mini that I text from my phone. [Build With Claude](https://github.com/kevinmmiddleton/build-with-claude) shows you how to set up yours.
 
 ### Where I've done it
 
@@ -18,7 +24,7 @@ I also build my own tools, which is how I know what AI can and can't do at work.
 
 **[Unpaid Intern](https://github.com/kevinmmiddleton/unpaid-intern)**: a free second brain for work. Hand it your transcripts, docs, and tickets, and get back your morning briefing, meeting prep, and follow-ups, in plain files you own. Works in Claude, Codex, and other AI tools. [How to install](https://middleton.io/unpaid-intern/#install)
 
-**[Recruiter BFF](https://github.com/kevinmmiddleton/recruiter-bff)**: a recruiter that works for you. Find out if you're a match before you apply, then walk in with an interview guide built from your own background. It never applies for you. [Get it](https://middleton.io/recruiter-bff/)
+**[Recruiter BFF](https://github.com/kevinmmiddleton/recruiter-bff)**: a recruiter that works for you, in Claude and ChatGPT. RBFF finds the roles you fit best, so you can apply early and walk in prepared with an interview guide built from your own background. [Get it](https://middleton.io/recruiter-bff/)
 
 **[personal-site](https://github.com/kevinmmiddleton/personal-site)** and **[build-with-claude](https://github.com/kevinmmiddleton/build-with-claude)**: two guides for people who want to build. One interviews you and ships a personal website that doesn't look AI-made. The other sets up your own always-on AI assistant, texted from your phone.
 
